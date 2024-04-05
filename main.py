@@ -15,7 +15,7 @@ def ler_grafo_de_arquivo(nome_arquivo):
 
         numero_arestas = int(arquivo.readline())
         for i in range(numero_arestas):
-            arestas = arquivo.readline().split(" ")[0]
+            arestas = arquivo.readline().split(" ")
             G.add_edge(arestas[0], arestas[1])
     return G
   
