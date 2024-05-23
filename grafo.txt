@@ -1,131 +1,145 @@
 4
-126
+140
 A Initial Summary
-A0 Initial Summary Pergunta 1
-A1 Initial Summary Pergunta 2
-A2 Initial Summary Pergunta 3
-A3 Initial Summary Pergunta 4
-A4 Initial Summary Pergunta 5
-A5 Initial Summary Pergunta 6
-A6 Initial Summary Pergunta 7
-A7 Initial Summary Pergunta 8
-A8 Initial Summary Pergunta 9
-A9 Initial Summary Pergunta 10
-A10 Initial Summary Pergunta 11
-A11 Initial Summary Pergunta 12
-A12 Initial Summary Pergunta 13
-A13 Initial Summary Pergunta 14
-A14 Initial Summary Pergunta 15
-A15 Initial Summary Pergunta 16
-A16 Initial Summary Pergunta 17
-A17 Initial Summary Pergunta 18
-A18 Initial Summary Pergunta 19
-A19 Initial Summary Pergunta 20
+A0 Initial Summary What idea, product or service do you have in mind?
+A1 Initial Summary How many benefits of your idea can you list?
+A2 Initial Summary Why does your audience need this product?
+A3 Initial Summary How will people use this product or service?
+A4 Initial Summary How do you plan to monetize this MVP?
+A5 Initial Summary Why will the public choose your solution and not other competitors that are already on the market?
+A6 Initial Summary Who is your target audience?
+A7 Initial Summary Have you already carried out any market research to validate your demand?
+A8 Initial Summary What metrics do you have in mind to quantify the success of your MVP? (Number of customers, revenue, number of views, number of good reviews.....)
+A9 Initial Summary Processamento inicial inicial
+A10 Initial Summary Pergunta inicial gerada 1
+A11 Initial Summary Pergunta inicial gerada 2
+A12 Initial Summary Pergunta inicial gerada 3
+A13 Initial Summary Pergunta inicial gerada 4
+A14 Initial Summary Pergunta inicial gerada 5
+A15 Initial Summary Pergunta inicial gerada 6
+A16 Initial Summary Pergunta inicial gerada 7
+A17 Initial Summary Pergunta inicial gerada 8
+A18 Initial Summary Pergunta inicial gerada 9
+A19 Initial Summary Pergunta inicial gerada 10
+A20 Initial Summary Processamento inicial
+A21 Initial Summary Criação do PDF inicial
+A22 Initial Summary Criação do Subgrafo inicial
+A23 Initial Summary Envio do arquivo inicial
 B Initial Report
-B0 Initial Report Pergunta 1
-B1 Initial Report Pergunta 2
-B2 Initial Report Pergunta 3
-B3 Initial Report Pergunta 4
-B4 Initial Report Pergunta 5
-B5 Initial Report Pergunta 6
-B6 Initial Report Pergunta 7
-B7 Initial Report Pergunta 8
-B8 Initial Report Pergunta 9
-B9 Initial Report Pergunta 10
-B10 Initial Report Pergunta 11
-B11 Initial Report Pergunta 12
-B12 Initial Report Pergunta 13
-B13 Initial Report Pergunta 14
-B14 Initial Report Pergunta 15
-B15 Initial Report Pergunta 16
-B16 Initial Report Pergunta 17
-B17 Initial Report Pergunta 18
-B18 Initial Report Pergunta 19
-B19 Initial Report Pergunta 20
+B0 Initial Report What is the problem you believe our MVP is solving?
+B1 Initial Report Do you find the provided solution relevant and urgent for the defined problem? Why?
+B2 Initial Report How do you think our solution addresses the problem identified?
+B3 Initial Report How significant do you think this problem is in the current market?
+- Please rate the market need from 1 (low urgency) to 10 (high urgency).
+B4 Initial Report What aspects of your solution do you find unique compared to existing market alternatives?
+B5 Initial Report In your opinion, why is our solution superior to other available options in the market?
+B6 Initial Report How does our MVP add value to customers?
+B7 Initial Report Processamento Picth Aprofundadas
+B8 Initial Report Pergunta Picth gerada 1
+B9 Initial Report Pergunta Picth gerada 2
+B10 Initial Report Pergunta Picth gerada 3
+B11 Initial Report Pergunta Picth gerada 4
+B12 Initial Report Pergunta Picth gerada 5
+B13 Initial Report Pergunta Picth gerada 6
+B14 Initial Report Pergunta Picth gerada 7
+B15 Initial Report Pergunta Picth gerada 8
+B16 Initial Report Pergunta Picth gerada 9
+B17 Initial Report Pergunta Picth gerada 10
+B18 Initial Report Processamento Picth
+B19 Initial Report Criação do PDF Picth
+B20 Initial Report Criação do Subgrafo Picth
+B21 Initial Report Envio do arquivo Picth
 C Personas
-C0 Personas Pergunta 1
-C1 Personas Pergunta 2
-C2 Personas Pergunta 3
-C3 Personas Pergunta 4
-C4 Personas Pergunta 5
-C5 Personas Pergunta 6
-C6 Personas Pergunta 7
-C7 Personas Pergunta 8
-C8 Personas Pergunta 9
-C9 Personas Pergunta 10
-C10 Personas Pergunta 11
-C11 Personas Pergunta 12
-C12 Personas Pergunta 13
-C13 Personas Pergunta 14
-C14 Personas Pergunta 15
-C15 Personas Pergunta 16
-C16 Personas Pergunta 17
-C17 Personas Pergunta 18
-C18 Personas Pergunta 19
-C19 Personas Pergunta 20
+C0 Personas What are the general objectives of your marketing strategy for the MVP?
+C1 Personas Can you list the specific KPIs (Key Performance Indicators) you plan to use to measure the success of our marketing strategy?
+C2 Personas Can you describe the market segments we are targeting?
+C3 Personas Are there plans to expand the target audience in the future? If so, how?
+C4 Personas Have specific customer personas been developed? If so, please describe one of them.
+C5 Personas What marketing channels do you recommend for our MVP and why? Options might include digital (email, PPC), social media (Facebook, Instagram, LinkedIn), traditional (TV, print, radio), etc.
+C6 Personas How have you defined the visual identity and branding for the MVP?
+C7 Personas How flexible is the implementation schedule to accommodate potential adjustments based on market response?
+C8 Personas Processamento Marketing Aprofundadas
+C9 Personas Pergunta Marketing gerada 1
+C10 Personas Pergunta Marketing gerada 2
+C11 Personas Pergunta Marketing gerada 3
+C12 Personas Pergunta Marketing gerada 4
+C13 Personas Pergunta Marketing gerada 5
+C14 Personas Pergunta Marketing gerada 6
+C15 Personas Pergunta Marketing gerada 7
+C16 Personas Pergunta Marketing gerada 8
+C17 Personas Pergunta Marketing gerada 9
+C18 Personas Pergunta Marketing gerada 10
+C19 Personas Processamento Marketing
+C20 Personas Criação do PDF Marketing
+C21 Personas Criação do Subgrafo Marketing
+C22 Personas Envio do arquivo Marketing
+C23 Personas Processamento Personas
+C24 Personas Criação do PDF Personas
+C25 Personas Criação do Subgrafo Personas
+C26 Personas Envio do arquivo Personas
 D Marketing Report
-D0 Marketing Report Pergunta 1
-D1 Marketing Report Pergunta 2
-D2 Marketing Report Pergunta 3
-D3 Marketing Report Pergunta 4
-D4 Marketing Report Pergunta 5
-D5 Marketing Report Pergunta 6
-D6 Marketing Report Pergunta 7
-D7 Marketing Report Pergunta 8
-D8 Marketing Report Pergunta 9
-D9 Marketing Report Pergunta 10
-D10 Marketing Report Pergunta 11
-D11 Marketing Report Pergunta 12
-D12 Marketing Report Pergunta 13
-D13 Marketing Report Pergunta 14
-D14 Marketing Report Pergunta 15
-D15 Marketing Report Pergunta 16
-D16 Marketing Report Pergunta 17
-D17 Marketing Report Pergunta 18
-D18 Marketing Report Pergunta 19
-D19 Marketing Report Pergunta 20
+D0 Marketing Report Who would most benefit from this product or service?
+D1 Marketing Report Describe two other benefits that this MVP has that were not observed?
+D2 Marketing Report In your opinion, who would be the best target audience and why?What is your recommendation for the value of this mvp for the end customer? Justify your answer.
+D3 Marketing Report What is the size of the market that will buy this product or service?Who would be the competitors for this product or service?Do you consider this product or service viable?
+D4 Marketing Report What are the most efficient channels to reach our target audience?
+D5 Marketing Report If you could improve this MVP proposal, what would you improve?
+D6 Marketing Report Processamento intermediario Aprofundadas
+D7 Marketing Report Pergunta Aprofundadas gerada 1
+D8 Marketing Report Pergunta Aprofundadas gerada 2
+D9 Marketing Report Pergunta Aprofundadas gerada 3
+D10 Marketing Report Pergunta Aprofundadas gerada 4
+D11 Marketing Report Pergunta Aprofundadas gerada 5
+D12 Marketing Report Pergunta Aprofundadas gerada 6
+D13 Marketing Report Pergunta Aprofundadas gerada 7
+D14 Marketing Report Pergunta Aprofundadas gerada 8
+D15 Marketing Report Pergunta Aprofundadas gerada 9
+D16 Marketing Report Pergunta Aprofundadas gerada 10
+D17 Marketing Report Processamento Aprofundadas
+D18 Marketing Report Criação do PDF Aprofundadas
+D19 Marketing Report Criação do Subgrafo Aprofundadas
+D20 Marketing Report Envio do arquivo Aprofundadas
 E Operational Report
-E0 Operational Report Pergunta 1
-E1 Operational Report Pergunta 2
-E2 Operational Report Pergunta 3
-E3 Operational Report Pergunta 4
-E4 Operational Report Pergunta 5
-E5 Operational Report Pergunta 6
-E6 Operational Report Pergunta 7
-E7 Operational Report Pergunta 8
-E8 Operational Report Pergunta 9
-E9 Operational Report Pergunta 10
-E10 Operational Report Pergunta 11
-E11 Operational Report Pergunta 12
-E12 Operational Report Pergunta 13
-E13 Operational Report Pergunta 14
-E14 Operational Report Pergunta 15
-E15 Operational Report Pergunta 16
-E16 Operational Report Pergunta 17
-E17 Operational Report Pergunta 18
-E18 Operational Report Pergunta 19
-E19 Operational Report Pergunta 20
-F Final Report
-F0 Final Report Pergunta 1
-F1 Final Report Pergunta 2
-F2 Final Report Pergunta 3
-F3 Final Report Pergunta 4
-F4 Final Report Pergunta 5
-F5 Final Report Pergunta 6
-F6 Final Report Pergunta 7
-F7 Final Report Pergunta 8
-F8 Final Report Pergunta 9
-F9 Final Report Pergunta 10
-F10 Final Report Pergunta 11
-F11 Final Report Pergunta 12
-F12 Final Report Pergunta 13
-F13 Final Report Pergunta 14
-F14 Final Report Pergunta 15
-F15 Final Report Pergunta 16
-F16 Final Report Pergunta 17
-F17 Final Report Pergunta 18
-F18 Final Report Pergunta 19
-F19 Final Report Pergunta 20
+E0 Operational Report What are the primary functions and features that must be included in the MVP to deliver value to early customers?
+              - Feature 1:
+              - Feature 2:
+              - Feature 3:
+E1 Operational Report Are there any specific design requirements or user interface elements that are essential for the MVP?
+E2 Operational Report What is the projected timeline for each development phase of the MVP? Please provide a detailed breakdown of the timeline (e.g., Research, Design, Development, Testing, Deployment).
+              - Research:
+              - Design:
+              - Development:
+              - Testing:
+              - Deployment:
+E3 Operational Report What are the estimated costs associated with each phase of development? Please provide a realistic breakdown of costs (e.g., Personnel, Tools, Licensing, etc.)
+              - Research:
+              - Design:
+              - Development:
+              - Testing:
+              - Deployment:
+E4 Operational Report What is the total budget allocated for the development of the MVP?
+E5 Operational Report What is the initial target user base for the MVP, and how do you plan to acquire these users?
+E6 Operational Report What is the initial target user base for the MVP, and how do you plan to acquire these users?
+E7 Operational Report What strategies will you use to scale the user base and the product (e.g., marketing campaigns, partnerships, feature enhancements)?
+E8 Operational Report How will you handle increased demand and ensure the product scales effectively?
+E9 Operational Report  What are the projected costs involved in scaling operations (e.g., website, additional servers, marketing expenses, customer support)?
+E10 Operational Report What is the estimated cost for maintaining the MVP, including fixes, server costs, and minor feature upgrade?
+E11 Operational Report How much reserve budget do you have allocated for contingency planning?
+E12 Operational Report Processamento intermediario Operacional
+E13 Operational Report Pergunta Operacional gerada 1
+E14 Operational Report Pergunta Operacional gerada 2
+E15 Operational Report Pergunta Operacional gerada 3
+E16 Operational Report Pergunta Operacional gerada 4
+E17 Operational Report Pergunta Operacional gerada 5
+E18 Operational Report Pergunta Operacional gerada 6
+E19 Operational Report Pergunta Operacional gerada 7
+E20 Operational Report Pergunta Operacional gerada 8
+E21 Operational Report Pergunta Operacional gerada 9
+E22 Operational Report Pergunta Operacional gerada 10
+E23 Operational Report Processamento Operacional
+E24 Operational Report Criação do PDF Operacional
+E25 Operational Report Criação do Subgrafo Operacional
+E26 Operational Report Envio do arquivo Operacional
 125
 A A1
 A1 A2
@@ -147,6 +161,7 @@ A16 A17
 A17 A18
 A18 A19
 A19 A20
+A20 A21
 A20 B
 B B1
 B1 B2
@@ -168,6 +183,7 @@ B16 B17
 B17 B18
 B18 B19
 B19 B20
+B20 B21
 B20 C
 B20 D
 B20 E
@@ -191,6 +207,7 @@ C16 C17
 C17 C18
 C18 C19
 C19 C20
+C20 C21
 D D1
 D1 D2
 D2 D3
@@ -211,6 +228,7 @@ D16 D17
 D17 D18
 D18 D19
 D19 D20
+D20 D21
 E E1
 E1 E2
 E2 E3
@@ -231,24 +249,20 @@ E16 E17
 E17 E18
 E18 E19
 E19 E20
-E20 F
-F F1
-F1 F2
-F2 F3
-F3 F4
-F4 F5
-F5 F6
-F6 F7
-F7 F8
-F8 F9
-F9 F10
-F10 F11
-F11 F12
-F12 F13
-F13 F14
-F14 F15
-F15 F16
-F16 F17
-F17 F18
-F18 F19
-F19 F20
+E20 E21
+A21 A22
+A22 A23
+A23 A24
+B21 B22
+C21 C22
+C22 C23
+C23 C24
+C24 C25
+C25 C26
+C26 C27
+E21 E22
+E22 E23
+E23 E24
+E24 E25
+E25 E26
+E26 E27
